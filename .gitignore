@@ -6,7 +6,7 @@ __pycache__
 # generator/__pycache__
 db.sqlite3
 media
-test1.py
+# test1.py
 
 # Visual Studio Code # 
 .vscode/* 
