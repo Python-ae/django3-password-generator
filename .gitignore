@@ -2,9 +2,11 @@
 *.log
 *.pot
 *.pyc
-generator/__pycache__
+__pycache__
+# generator/__pycache__
 db.sqlite3
 media
+test1.py
 
 # Visual Studio Code # 
 .vscode/* 
