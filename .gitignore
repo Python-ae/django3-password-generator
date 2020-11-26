@@ -4,6 +4,7 @@
 *.pyc
 __pycache__
 generator/__pycache__
+generator/migrations/__pycache__
 password_generator/__pycache__
 db.sqlite3
 media
